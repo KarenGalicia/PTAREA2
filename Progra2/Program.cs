@@ -1,4 +1,5 @@
-﻿using System;
+//CONVERTIR DATOS
+using System;
 
 int numeroEntero;
 Console.WriteLine("**Conversor de tipos de datos**");
